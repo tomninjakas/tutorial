@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c958ebfe-ca95-4e0b-87e4-35fde1043d8b" name="Changes" comment="snippets attemp">
-      <change afterPath="$PROJECT_DIR$/snippets/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/urls.py" afterDir="false" />
+    <list default="true" id="c958ebfe-ca95-4e0b-87e4-35fde1043d8b" name="Changes" comment="snippets urls">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713945174811</updated>
-      <workItem from="1713945198540" duration="2208000" />
+      <workItem from="1713945198540" duration="3041000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -115,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713946461370</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="snippets urls">
+      <option name="closed" value="true" />
+      <created>1713947461617</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713947461617</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="snippets attemp" />
-    <option name="LAST_COMMIT_MESSAGE" value="snippets attemp" />
+    <MESSAGE value="snippets urls" />
+    <option name="LAST_COMMIT_MESSAGE" value="snippets urls" />
   </component>
 </project>
